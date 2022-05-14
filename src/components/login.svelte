@@ -2,6 +2,9 @@
 
 </script>
 
+<div class="logo-container">
+  <img src="assets/head.png" height="70px" alt="">
+</div>
 <form action="" method="post">
   <input type="text" name="user" id="user" placeholder="username"/>
 <div>
@@ -13,6 +16,11 @@
 <style>
   div {
     display: flex;
+  }
+
+  .logo-container {
+    justify-content: center;
+    margin-bottom: 15px;
   }
 
   .submit {
