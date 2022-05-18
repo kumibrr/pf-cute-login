@@ -25,7 +25,7 @@
 	div {
 		background-color: rgb(144, 144, 144);
 		padding: 1em;
-		max-height: 10rem;
+		max-width: 15rem;
 		border-radius: 20px;
 		box-shadow: 0px 0px 20px 20px rgba(86, 86, 86, 0.2);
 	}
