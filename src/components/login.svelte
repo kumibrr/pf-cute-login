@@ -17,6 +17,10 @@
     justify-content: center;
   }
 
+  input {
+    width: 100%;
+  }
+
   button {
     width: 30px;
     height: 30px;
